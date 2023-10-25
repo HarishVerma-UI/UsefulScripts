@@ -11,7 +11,7 @@ This PowerShell script checks for missing .spec.ts files corresponding to .compo
 1. **Clone the Repository:** If you haven't already, clone the repository to your local machine.
 
     ```sh
-    git clone https://github.com/yourusername/your-repo.git
+    git clone https://github.com/HarishVerma-UI/UsefulScripts
     ```
 
 2. **Navigate to the Directory:** Use the command line to navigate to the directory where the PowerShell script is located.
